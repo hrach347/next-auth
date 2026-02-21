@@ -4,6 +4,12 @@ A minimal, production-ready authentication template built with Next.js (App Rout
 
 This project demonstrates a clean authentication flow with protected routes, client and server session handling, and a simple, extendable structure ready for real-world applications.
 
+---
+
+![Project Image Collage](./public/images/photo-collage.png.png)
+
+---
+
 ### ✨ Features
 
 - Google OAuth login
